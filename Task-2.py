@@ -1,5 +1,3 @@
-
-
 '''CALCULATOR
 TASK 2
 Design a simple calculator with basic arithmetic operations.
