@@ -62,7 +62,3 @@ class RockPaperScissors:
 root = tk.Tk()
 game = RockPaperScissors(root)
 root.mainloop()
-
-
-
-
