@@ -55,7 +55,3 @@ class Calculator:
 root = tk.Tk()
 calculator = Calculator(root)
 root.mainloop()
-
-
-
-
